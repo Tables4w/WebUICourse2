@@ -90,13 +90,14 @@ table{
     margin-left: auto;
     margin-bottom: 40px;
     width: 780px;
+    height: 280px;
     border: solid;
     border-color: white;
     border-spacing: 0px;
 }
 
 tr{
-    background-color: #042149;
+    background-color: #021f47;
 }
 
 th{
@@ -107,7 +108,7 @@ th{
 }
 
 .nctr{
-    background-color: #153158;
+    background-color: #1d3a63;
 }
 
 label{
